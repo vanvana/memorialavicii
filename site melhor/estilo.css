@@ -1,0 +1,210 @@
+.vandeilson{
+           
+font-family: serif;
+color: aliceblue;
+        }
+        .titulo {
+            font-size: 15px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-style: italic;
+            color: aliceblue;
+            transition: all 0.3s ease-out;
+        }
+        .titulo:hover {
+            cursor: pointer;
+            transform: translateY(-10px);
+        }
+
+        body {
+            background-image: url(imagens/az.jpg);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-color: black;
+            background-size: 100%;
+        }
+
+        .mjo {
+            font-size: 15px;
+            color: white;
+            
+        }
+        .mjo1:hover {
+            transition: all 0.3s ease-out;
+            cursor: pointer;
+            transform: translateY(-10px);
+        }
+        
+
+        #sos {}
+
+        audio::-webkit-media-controls-timeline {
+            display: flex;
+        }
+
+        audio::-webkit-media-controls-panel {
+            background-color: transparent;
+        }
+
+        .xtt {}
+
+        .red {
+            width: 100px;
+            height: 100px;
+            float: left;
+            margin-left: auto;
+            margin-right: auto;
+            transition: all 0.4s ease-out;
+        }
+
+        .red#facebook {
+
+            background-color: transparent;
+            width: 80px;
+            height: 80px;
+        }
+
+        .red#instagran {
+            background-color: transparent;
+            width: 80px;
+            height: 80px
+        }
+
+        .red#whats {
+            background-color: transparent;
+            width: 80px;
+            height: 80px
+        }
+
+        .red#gmail {
+            background-color: transparent;
+            width: 80px;
+            height: 80px
+        }
+
+        .red#spo {
+            background-color: transparent;
+            width: 80px;
+            height: 80px
+        }
+
+        .red#you {
+            background-color: transparent;
+            width: 80px;
+            height: 80px
+        }
+
+        .red:hover {
+            cursor: pointer;
+            transform: translateY(-10px);
+        }
+                   musica
+
+                   body{
+                    background-image: url(imagens/fundooo.jpg);
+                    background-attachment: fixed;
+                    background-repeat: no-repeat;
+                    background-size: 100%;
+                }
+                .titulo1{
+                    font-size: 25px;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    color: white;
+                }
+                #geral{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 100px;
+                    left: 0px;
+                }
+                #geral2{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 100px;
+                    right: 500px;
+                   
+                    
+                }
+                #geral3{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 100px;
+                    right: 50px;
+                
+                }
+                #ala{
+                    height: 30px;
+                    width: 500px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 800px;
+                }
+                #breve{
+                    height: 80px;
+                    width: 500px;
+                    background-color:red;
+                    position: absolute;
+                    top: 490px;
+                    right: 450px;
+                }
+                .breve2{
+                    font-size: 20px;
+                    color: seashell;
+                    font-family: unset;
+                }
+                #ala2{
+                    height: 30px;
+                    width: 500px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 1200px;
+                }
+                #geral10{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 800px;
+                    left: 0px;
+                }
+                #geral11{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 800px;
+                    right: 500px;
+                   
+                    
+                }
+                #geral12{
+                    height: 400px;
+                    width: 400px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 800px;
+                    right: 50px;
+                
+                }
+                .mjo4{
+                    font-size: 20px;
+                    color: whitesmoke;
+                    
+                }
+                #ala5{
+                    height: 30px;
+                    width: 500px;
+                    background-color: transparent;
+                    position: absolute;
+                    top: 900px;
+
+
+                    
+                   
+                    
+            
